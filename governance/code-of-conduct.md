@@ -28,10 +28,11 @@ We do not actively look for violations of the Beastslash Code of Conduct outside
 
 ## Reprecussions
 Reprecussions for violating the Beastslash Code of Conduct can include:
-* us telling you to knock it off,
+* verbal or written warnings,
 * account suspensions and terminations,
 * disqualification from special events,
 * feature restrictions, such as chat mutes and world publishing bans,
 * random username and display name generation,
+* reports to law enforcement,
 * removal from special programs or groups, and
 * other types of sanctions that we deem appropriate.
