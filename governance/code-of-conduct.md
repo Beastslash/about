@@ -19,7 +19,7 @@ Protected personal information includes:
 * government-issued identification cards,
 * bank information,
 * non-public contact information, and
-* media featuring a person without their explicit permission.
+* media featuring a real-life person.
 
 Exercise caution when revealing your own personal information on the Internet.
 
