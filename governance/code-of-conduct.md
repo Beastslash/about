@@ -28,6 +28,7 @@ We do not actively look for violations of the Beastslash Code of Conduct outside
 
 ## Reprecussions
 Reprecussions for violating the Beastslash Code of Conduct can include:
+* us telling you to knock it off,
 * account suspensions and terminations,
 * disqualification from special events,
 * feature restrictions, such as chat mutes and world publishing bans,
