@@ -12,7 +12,7 @@ You can roleplay as fictional characters, but don't maliciously impersonate anyo
 Do not attack anyone based on their character.
 
 ### 4. Share with care
-Do not reveal or threaten to reveal anyone's protected personal information.
+Do not reveal or threaten to reveal anyone's protected personal information without explicit permission.
 
 Protected personal information includes:
 * private addresses and GPS coordinates,
