@@ -3,7 +3,7 @@ The **Beastslash Code of Conduct** applies to all Beastslash community members, 
 
 ## Global rules
 ### 1. Play by the rules
-This means you shouldn't cheat in our games or disrupt services for anyone else. You can mod our games to make them more accessible and enjoyable for you, but don't ruin the experience for other people. 
+This means you shouldn't cheat in our games or maliciously disrupt services for anyone else. You can mod our games to make them more accessible and enjoyable for you, but don't ruin the experience for other people. 
 
 ### 2. Be yourself
 You can roleplay as fictional characters, but don't maliciously impersonate anyone. If you are parodying someone, make it clear that you are not actually that person.
