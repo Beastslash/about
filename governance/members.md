@@ -14,6 +14,9 @@ A company can change their representative.
 | Trawmisha Michelle Lewis | 24 votes | 
 
 ## Voting power
+### Membership interest
+A member's voting power represents their membership interest in the company.
+
 ### Granting or revoking voting power
 Voting power can be granted or revoked at any time for any reason by a two-thirds (2/3) vote of the voting membership.
 
