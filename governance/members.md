@@ -5,12 +5,12 @@ A company can change their representative.
 
 | Name | Voting power | Representative name | Representative title |
 | :- | :- | :- | :- |
-| Makuwro, LLC | 50 votes | Christian Dexter Toney | President and Chief Executive Officer |
+| Makuwro, LLC | 51 votes | Christian Dexter Toney | President and Chief Executive Officer |
 
 ### Individuals
 | Name | Voting power |
 | :- | :- |
-| Christian Dexter Toney | 26 votes | 
+| Christian Dexter Toney | 25 votes | 
 | Trawmisha Michelle Lewis | 25 votes | 
 
 ## Voting power
