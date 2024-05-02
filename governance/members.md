@@ -1,9 +1,7 @@
 # Members
 ## Current members
-All current members are voting members. 
-
 ### Companies
-A company can change their representative.
+A company can change their representative. 
 
 | Name | Voting power | Representative name | Representative title |
 | :- | :- | :- | :- |
