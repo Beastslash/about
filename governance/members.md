@@ -28,6 +28,9 @@ The total voting power available can be changed by two-thirds (2/3) of the votin
 ### Non-voting members
 Non-voting members, or members who have zero voting power, will remain members unless they withdraw or are expelled.
 
+## Withdrawal
+Members can withdraw at anytime for any reason by giving written correspondence to all members at the time of their withdrawal. Voting members must transfer their voting power before withdrawing. 
+
 ## Appointment
 Voting members can appoint new members by transferring at least one vote to them. 
 
