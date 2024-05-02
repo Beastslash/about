@@ -14,7 +14,9 @@ The president has full supervisory control and direction over the organization. 
 In absence or disability of the president, the vice presidents perform the duties and orders of the president and other duties as prescribed by the members. The vice presidents report to the president and the members of the company. There may be zero or more vice presidents.
 
 ## Removal
-Managers can be removed by a majority (50% + 1) vote of the voting membership for any reason at any time.
+Managers can be removed by a majority (50% + 1) vote of the voting membership for any reason at any time. 
+
+The president may suspend vice presidents. The members can uphold or overturn the president's decision.
 
 ## Selection
 Managers can be selected by a majority (50% + 1) vote of the voting membership at any time.
