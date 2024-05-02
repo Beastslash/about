@@ -11,7 +11,7 @@ A company can change their representative.
 | Name | Voting power |
 | :- | :- |
 | Christian Dexter Toney | 25 votes | 
-| Trawmisha Michelle Lewis | 25 votes | 
+| Trawmisha Michelle Lewis | 24 votes | 
 
 ## Voting power
 ### Granting or revoking voting power
@@ -21,7 +21,7 @@ Voting power can be granted or revoked at any time for any reason by a two-third
 Members can partially or completely transfer their votes to another individual or company. Transferred votes are added to the transferee's voting power and deducted from the transferrer's voting power.
 
 ### Total voting power
-The total voting power available can be changed by two-thirds (2/3) of the voting membership. At this time, there are total 101 votes.
+The total voting power available can be changed by two-thirds (2/3) of the voting membership. At this time, there are total 100 votes.
 
 ### Non-voting members
 Non-voting members, or members who have zero voting power, remain members unless they withdraw or are expelled.
