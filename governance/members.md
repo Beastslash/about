@@ -26,7 +26,7 @@ Members can partially or completely transfer their votes to another individual o
 The total voting power available can be changed by two-thirds (2/3) of the voting membership. At this time, there are total 100 votes.
 
 ### Non-voting members
-Non-voting members, or members who have zero voting power, will remain members unless they withdraw or are expelled.
+Non-voting members, or members who have zero voting power, remain members unless they withdraw or are expelled.
 
 ## Withdrawal
 Members can withdraw at anytime for any reason by giving written correspondence to all members at the time of their withdrawal. Voting members must transfer their voting power before withdrawing. 
