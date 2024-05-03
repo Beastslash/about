@@ -7,20 +7,23 @@ This operations document lists all officer positions in the company. Officers ma
 | Christian Dexter Toney | Chief Executive Officer |
 
 ## Duties
-### Chief executive officer (CEO)
+### Chief executive officer
 * Executes the vision and mission set by the company's members.
 * Fufills the duties of open officer positions.
+* Completes any additional duties assigned by the company's members.
 * Reports to the company's members.
 
-### Chief operations officer (COO)
-* Manages internal company operations. 
-* Reports to the CEO.
+### Chief operations officer
+* Manages internal company operations.
+* Serves as the company's spokesperson for everything related to company affairs.
+* Completes any additional duties assigned by the chief executive officer.
+* Reports to the chief executive officer.
 
-### Chief creative officer (CCO)
-* Oversees all of Beastslash's content.
-* Reports to the CEO.
-
-### Chief marketing officer (CMO)
+### Chief creative officer
+* Oversees all of the creative processes of the company's content, including series, shorts, video games, applications, and branding.
+* Serves as the company's spokesperson for everything related to the company's creative processes.
+* Completes any additional duties assigned by the chief executive officer.
+* Reports to the chief executive officer.
 
 ## Appointment
 Officers can be appointed by the president at any time for any reason.
