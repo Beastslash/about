@@ -1,5 +1,5 @@
 # Officers
-This operations document lists all officer positions in the company. Officers may create and manage new positions that report to them. Officers may also delegate some or all of their powers and duties to the new positions. 
+This operations document lists all officer positions in the company. Officers may create and manage positions that report to them. Officers may also delegate some or all of their powers and duties to the new positions. 
 
 ## Current officers
 | Name | Position |
