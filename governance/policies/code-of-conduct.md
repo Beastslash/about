@@ -36,3 +36,6 @@ Sanctions for violating the Beastslash Code of Conduct can include:
 * reports to law enforcement,
 * removal from special programs or groups, and
 * additional sanctions that the company deems appropriate.
+
+## Amendments
+This policy is subject to change by the company president at any time for any reason. If a change happens, then the president or their designee will notify all community members.
