@@ -1,2 +1,2 @@
 # Mission
-Our mission is to produce media that sparks imagination and fuels creativity through engaging experiences.
+Our mission is to spark imagination, fuel creativity, and encourage curiousity through engaging experiences.
