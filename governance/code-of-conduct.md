@@ -26,8 +26,8 @@ Exercise caution when revealing your own personal information on the Internet.
 ### 5. Stay safe off-platform
 We do not actively look for violations of the Beastslash Code of Conduct outside of Beastslash products; however, certain egregious or dangerous off-platform behavior — such as stalking, sexual harassment, physical harm, and grooming — may cause us to react. 
 
-## Reprecussions
-Reprecussions for violating the Beastslash Code of Conduct can include:
+## Sanctions
+Sanctions for violating the Beastslash Code of Conduct can include:
 * verbal or written warnings,
 * account suspensions and terminations,
 * disqualification from special events,
@@ -35,4 +35,4 @@ Reprecussions for violating the Beastslash Code of Conduct can include:
 * random username and display name generation,
 * reports to law enforcement,
 * removal from special programs or groups, and
-* other types of sanctions that we deem appropriate.
+* additional sanctions that the company deems appropriate.
