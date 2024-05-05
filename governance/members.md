@@ -16,8 +16,6 @@ Members can do the following acts with a two-thirds (2/3) majority vote of the v
 * Converting the company from a limited liability company.
 * Amending the authority of members.
 
-Members can create, amend, and repeal company policies in addition to hiring and firing managers.
-
 ## Current members
 ### Companies
 A company can change their representative. 
