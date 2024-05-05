@@ -2,7 +2,7 @@
 ## Authority
 ### Acts that require a simple majority
 Members can do the following acts with a simple majority (50% + 1) vote of the voting membership:
-* Hiring and firing managers.
+* Selecting and removing managers.
 * Creating, amending, or repealing company policies.
 * Amending the authority of managers.
 
