@@ -1,4 +1,7 @@
 # Hiring policy
+## Hiring power
+All officers and their designees are empowered to create and manage job postings in addition to hiring staff members.
+
 ## Staff requirements
 These requirements apply to all staff members, including employees, interns, and contractors.
 * All staff members must be eighteen or older. Contracts and agreements signed by minors are voidable regardless of the language.
