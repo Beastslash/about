@@ -38,4 +38,4 @@ Sanctions for violating the Beastslash Code of Conduct can include:
 * additional sanctions that the company deems appropriate.
 
 ## Amendments
-This policy is subject to change by the company president or their designee at any time for any reason. If a change happens, then Beastslash will notify all community members.
+This policy is subject to change by the chief executive officer or their designee at any time for any reason. If a change happens, then Beastslash will notify all community members.
