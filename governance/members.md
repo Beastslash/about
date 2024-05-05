@@ -1,4 +1,23 @@
 # Members
+## Authority
+### Acts that require a simple majority
+Members can do the following acts with a simple majority (50% + 1) vote of the voting membership:
+* Hiring and firing managers.
+* Creating, amending, or repealing company policies.
+* Amending the authority of managers.
+
+### Acts that require a two-thirds majority
+Members can do the following acts with a two-thirds (2/3) majority vote of the voting membership:
+* Amending the articles of corporation.
+* Dissolving the company.
+* Expelling other members.
+* Granting or revoking voting powers.
+* Changing the company's total voting power.
+* Converting the company from a limited liability company.
+* Amending the authority of members.
+
+Members can create, amend, and repeal company policies in addition to hiring and firing managers.
+
 ## Current members
 ### Companies
 A company can change their representative. 
