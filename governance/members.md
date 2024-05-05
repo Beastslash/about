@@ -15,6 +15,7 @@ Members can do the following acts with a two-thirds (2/3) majority vote of the v
 * Changing the company's total voting power.
 * Converting the company from a limited liability company.
 * Amending the authority of members.
+* Merging the company.
 
 ## Current members
 ### Companies
