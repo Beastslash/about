@@ -1,5 +1,5 @@
-# Beastslash Code of Conduct
-The **Beastslash Code of Conduct** applies to all Beastslash community members, including employees, interns, contractors, players, users, and guests. Each product and service may have its own specific rules that complement the Beastslash Code of Conduct.
+# Code of Conduct
+The Code of Conduct applies to all Beastslash community members, including employees, interns, contractors, players, users, and guests. Each product and service may have its own specific rules that complement the Beastslash Code of Conduct.
 
 ## Global rules
 ### 1. Play by the rules
@@ -27,7 +27,7 @@ Exercise caution when revealing your own personal information on the Internet.
 We do not actively look for violations of the Beastslash Code of Conduct outside of Beastslash products; however, certain egregious or dangerous off-platform behavior — such as stalking, sexual harassment, physical harm, and grooming — may cause us to react. 
 
 ## Sanctions
-Sanctions for violating the Beastslash Code of Conduct can include:
+Sanctions for violating the Code of Conduct can include:
 * verbal or written warnings,
 * account suspensions and terminations,
 * disqualification from special events,
