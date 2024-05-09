@@ -12,5 +12,5 @@
 * **December 5, 2023:** Beastslash officially pauses The Showrunners and begins development on their second game, DemoDemons. The original team consisted of Christian Toney and Dylan Provenzano as programmers, naz and InkyTheBlue as artists, and everyone as game designers. Christian led the team as the producer and the director.
 
 ## 2024
-* **April 30, 2024:** Da Dragon Den becomes a division of Beastslash.
-* **May 8, 2024:** Christian Toney renames "Beastslash" to "Ghosudo" on every platform, but near instantly backtracks because Beastslash is "just too cool".
+* **April 30, 2024:** Da Dragon Den becomes a division of Beastslash, with Christian Toney as director and InkyTheBlue as assistant director.
+* **May 6, 2024:** Christian Toney renames "Beastslash" to "Ghosudo" on every platform, but near instantly backtracks because Beastslash is "just too cool".
