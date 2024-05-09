@@ -9,7 +9,7 @@
 * **November 2021:** Beastslash begins development on their first game, The Showrunners. 
 
 ## 2023
-* **December 5, 2023:** Beastslash officially pauses The Showrunners and begins development on their second game, DemoDemons. The original team consisted of Christian Toney and Dylan Provenzano as programmers, naz and InkyTheBlue as artists, and everyone as game designers. Christian led the team as the producer and the director.
+* **December 5, 2023:** Beastslash officially pauses The Showrunners game to work on a wider franchise of the same name. The company begins development on their second game, DemoDemons. The original team consisted of Christian Toney and Dylan Provenzano as programmers, naz and InkyTheBlue as artists, and everyone as game designers. Christian led the team as the producer and the director.
 
 ## 2024
 * **April 30, 2024:** Da Dragon Den becomes a division of Beastslash, with Christian Toney as director and InkyTheBlue as assistant director.
